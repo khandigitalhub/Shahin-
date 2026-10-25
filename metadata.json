@@ -1,0 +1,6 @@
+{
+  "name": "Standard Business Reseller Pro",
+  "description": "Standard Business (স্ট্যান্ডার্ড বিজনেস) — একটি প্রিমিয়াম রিসেল বিজনেস প্ল্যাটফর্ম। এজেন্ট ট্রেনিং একাডেমি, ডিজিটাল ইনভয়েস, প্রোডাক্ট মার্কেটিং, কমিশন ওয়ালেট, লাইভ অর্ডার ট্র্যাকিং ও বিকাশ/নগদ পেআউট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
